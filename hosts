@@ -35,6 +35,15 @@ ff02::3 ip6-allhosts
 
 # Lite-Project Added 25th of March 2025
 
+0.0.0.0 s.magsrv.com
+0.0.0.0 a.magsrv.com
+0.0.0.0 a.realsrv.com
+0.0.0.0 go.mnaspm.com
+0.0.0.0 go.reebr.com
+0.0.0.0 img.doppiocdn.com
+0.0.0.0 s.tf4srv.com
+0.0.0.0 llqodr.amaziingdates.com
+0.0.0.0 amaziingdates.com
 0.0.0.0 m.m.oronova.com
 0.0.0.0 ht-cdn.trafficjunky
 0.0.0.0 www.trafficjunky.com
