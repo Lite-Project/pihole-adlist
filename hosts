@@ -35,6 +35,15 @@ ff02::3 ip6-allhosts
 
 # Lite-Project Added 25th of March 2025
 
+0.0.0.0 fl-cdn.trafficjunky.net
+0.0.0.0 betvictor.com
+0.0.0.0 lp.betvictor.com
+0.0.0.0 pix-cdn77.trafficjunky.net
+0.0.0.0 eu-adsrv.rtbsuperhub.com
+0.0.0.0 bmedia-gcore.justservingfiles.net
+0.0.0.0 objectstorage.ap-singapore-2.oraclecloud.com
+0.0.0.0 bubbiesxylaria.top
+0.0.0.0 dc.bubbiesxylaria.top
 0.0.0.0 stripchat.com
 0.0.0.0 cvh89ianaffc73be9sq0.abexdefender.com
 0.0.0.0 abexdefender.com
