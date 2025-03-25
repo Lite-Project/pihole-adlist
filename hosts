@@ -35,6 +35,12 @@ ff02::3 ip6-allhosts
 
 # Lite-Project Added 25th of March 2025
 
+0.0.0.0 m.m.oronova.com
+0.0.0.0 ht-cdn.trafficjunky
+0.0.0.0 www.trafficjunky.com
+0.0.0.0 www.trafficjunky.net
+0.0.0.0 pix-ht.trafficjunky.net
+0.0.0.0 s.orbsrv.com
 0.0.0.0 promo.leovegas.com
 0.0.0.0 leovegas.com
 0.0.0.0 t.cfjump.com
